@@ -1,0 +1,25 @@
+
+
+p {
+  border-style: ridge;
+  border-width: 5px;
+  border-radius: 40px;
+  background-color: brown;
+  border-color: rgba(255, 255, 255, 0.195);
+  font-size: larger;  
+}
+
+.focalImage{
+  background-color: rgb(77, 91, 104);
+    max-width: 500px;
+    padding: 20px;
+    justify-content: center;
+}
+
+h1{
+  background-color: black;
+  border-style: solid;
+  border-color: rgb(247, 64, 58);
+  
+}
+
